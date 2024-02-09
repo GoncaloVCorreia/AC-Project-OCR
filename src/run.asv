@@ -1,0 +1,24 @@
+function run(filter,network)
+    concat();
+    %hardlimNet();
+    %linearNet();
+    %sigmoidNet();
+    %linearNet2layers();
+    %sigmoidNet2layers();
+    %linearsigmoidNet2layers();
+    %sigmoidlinearNet2layers();
+    %linear_soft();
+    %logsig_soft();
+    %filterAssMem();
+    %binary_percept();
+    filter
+    network
+
+    filterChoice=0;
+    if(strcmp(filter,'None'))
+        filterCH
+    end
+
+    
+    
+    
