@@ -1,2 +1,2 @@
 # AC-Project-OCR
-Optical Character Recognition with Machine Learning
+Optical Character Recognition 
